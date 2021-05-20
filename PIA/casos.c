@@ -5,21 +5,21 @@
 
 int allcase(){
 
-switch (number){
+switch (number){					//I declare the options for the user
      case 1:
-        printf("Enter number of grams\n");
-        scanf("%f",&date);
-        printf("Grams: %.2f = kilograms: %.2f \n",date,date/1000);
-        printf("press any key to continue\n");
+        printf("Enter number of grams\n");				//the user enters the data they have
+        scanf("%f",&date);						//the code reads the user data
+        printf("Grams: %.2f = kilograms: %.2f \n",date,date/1000);	//the codes applies the formula
+        printf("press any key to continue\n");				
         getch();
 
-			system("class");
+			system("class");				//the system is for executing threads
 
-			return main();
+			return main();					//back to the section main
 
 			break;
 
-        case 2:
+        case 2:								//the process is the same for the other options
         printf("Enter number of kilograms\n");
         scanf("%f",&date);
         printf("Kilograms: %.2f = grams: %.2f \n",date,date*1000);
