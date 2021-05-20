@@ -1,7 +1,9 @@
+//hi my name is Ruben aand this is my code "unit converter", if you want to try it please join the header code and "casos".
 #include <stdio.h>
 #include <stdlib.h>
 #include "header (1).h"
 int main ()
+    //menu design.
 {
 system("class");
 printf("  **THE FOLLOWING OPTIONS ARE SHOWN BELOW**  \n");
@@ -54,9 +56,9 @@ printf("  **THE FOLLOWING OPTIONS ARE SHOWN BELOW**  \n");
     printf("                    |24- Watt to Megawatt     |\n");
     printf("                    ---------------------------\n");
     printf("Enter the conversion number you neeed: \n");
- scanf("%d",&number);
+ scanf("%d",&number);                                           //read the number that was written
 
-  allcase();
+  allcase();                                                    //add the header.
 
-return(0);
+return(0);                                                      //end
 }
