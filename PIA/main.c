@@ -1,4 +1,4 @@
-//hi my name is Ruben aand this is my code "unit converter", if you want to try it please join the header code and "casos".
+//Hi my name is Rubèn and this is my code "unit converter", if you want to try it please join the header code and "casos".
 #include <stdio.h>
 #include <stdlib.h>
 #include "header (1).h"
