@@ -34,10 +34,15 @@ will be optimizin time in order to focus directly on the problem.
 **Self Evaluation**
 
 1: complexity 2 (I had some difficulties)
+
 2: functionality 3 (works fine)
+
 3: code 2 (I could optimize it more)
+
 4: storage 1 (it is very limited)
+
 5: documentation 2 (the video is a bit cheesy)
+
 CF 10 of 15
 
 **Contact**
