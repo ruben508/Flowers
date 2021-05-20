@@ -1,4 +1,7 @@
- # Unit converter #
+
+**video:** <https://youtu.be/gQ0DGlklScQ>
+
+# Unit converter #
 
 In the international system there are some units which have a representative value, as previously mentioned
 this type of units and values applies to all countries. 
@@ -17,7 +20,6 @@ will be optimizin time in order to focus directly on the problem.
 
 **output:** the code will print the value you required along with the unit you desired.
 
-**video:** <https://youtu.be/gQ0DGlklScQ>
 
 **Reference:** Jose, L,. & Gregorio, C.. (S/F). Conversión de Unidades. May 19, 2021, de fisicalab Sitio web: https://www.fisicalab.com/apartado/conversion-de-unidades 
 
@@ -29,6 +31,14 @@ will be optimizin time in order to focus directly on the problem.
 
 <https://www.google.com/search?q=farenheit+a+celsius&sxsrf=ALeKk02Buv8dibiJSlAx2QBgyuiLqabD8w%3A1621483438260&ei=rt-lYJGjD4-SsAXD34UQ&oq=fa&gs_lcp=Cgdnd3Mtd2l6EAMYADIECCMQJzIKCAAQsQMQgwEQQzIECAAQQzIECAAQQzIFCAAQsQMyCwgAELEDEMcBEKMCMgUIABCxAzIFCAAQsQMyCwgAELEDEMcBEKMCMgsIABCxAxDHARCjAjoHCCMQ6gIQJzoJCCMQ6gIQJxATOggIABCxAxCDAToCCABQmKkDWPeuA2DetgNoAXACeACAAbkBiAHyApIBAzEuMpgBAKABAaoBB2d3cy13aXqwAQrAAQE&sclient=gws-wiz>
 
+**Self Evaluation**
+
+1: complexity 2 (I had some difficulties)
+2: functionality 3 (works fine)
+3: code 2 (I could optimize it more)
+4: storage 1 (it is very limited)
+5: documentation 2 (the video is a bit cheesy)
+CF 10 of 15
 
 **Contact**
 
