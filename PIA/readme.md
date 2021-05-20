@@ -3,7 +3,7 @@
 In the international system there are some units which have a representative value, as previously mentioned
 this type of units and values applies to all countries. 
 
-**how will it benefit me?**
+**How will it benefit me?**
 
 As future engineers we will face several sutation in which we will have to have all the values in the same
 unit, this is where this project called "unit converter" is born, besides representing an easier process we 
@@ -32,4 +32,4 @@ will be optimizin time in order to focus directly on the problem.
 
 **Contact**
 
-if you have any doubtsmy cntact is: ruben#6922
+If you have any doubtsmy cntact is: ruben#6922
